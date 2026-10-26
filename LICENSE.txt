@@ -1,0 +1,85 @@
+IronTill - Sistema POS Interno
+
+ACUERDO DE LICENCIA (EULA)
+IMPORTANTE: LEA ATENTAMENTE LOS SIGUIENTES TÉRMINOS Y CONDICIONES ANTES DE ADQUIRIR, UTILIZAR ESTE PROGRAMA O REUTILIZAR SU CÓDIGO.
+
+	I.a. ACEPTACIÓN POR USO Y DISTRIBUCIÓN
+
+		I.a.1. Consentimiento: Al utilizar este software, enlaces directos o de descarga o cualquier plataforma 
+		suministrada oficialmente por el Desarrollador, así como al descargar, instalar o ejecutar el instalador del software, el Usuario manifiesta su aceptación 
+		total, incondicional y vinculante de este acuerdo.
+
+		I.a.2. Uso de Licencia: Si el Usuario no está de acuerdo con estos términos, debe cesar el uso del programa y eliminar todos sus archivos de poseerlos 
+		inmediatamente.
+
+
+	II. NATURALEZA TECNOLÓGICA
+
+		II.a.1. Arquitectura: Este software ha sido desarrollado y compilado utilizando el framework Electron. El Usuario reconoce que el programa opera mediante 
+		un núcleo basado en tecnología de navegación web de código abierto.
+
+		II.a.2. Responsabilidad de Datos: El Desarrollador NO tiene acceso a la base de datos del Usuario. Por lo tanto, la pérdida de información debida a la 
+		formateo del equipo, fallos de hardware o reinstalación del navegador es responsabilidad exclusiva del Usuario.
+
+	III. PROPIEDAD INTELECTUAL Y MARCA
+
+		III.a.1. Uso de código: Queda permitida la reutilización, modificación y redistribución de la lógica interna del código fuente. No obstante; se requiere 
+		expresamente sustituir toda la identidad visual, incluyendo esquemas de colores, logotipos, nombres de marca y cualquier referencia explícita al 
+		desarrollador o al ecosistema Iron (tales como IronTill o afines).
+
+	IV.a. EXENCIÓN DE RESPONSABILIDAD ("AS IS")
+		
+		IV.a.1. EL SOFTWARE SE PROPORCIONA "TAL CUAL" (AS IS), SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITÁNDOSE A GARANTÍAS DE 
+		COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR O LOS TITULARES DE LOS DERECHOS SERÁN RESPONSABLES 
+		POR CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON 
+		EL SOFTWARE O EL USO U OTRAS NEGOCIACIONES EN EL SOFTWARE.
+
+	IV.b. CARÁCTER NO FISCAL Y LIMITACIÓN DE ALCANCE
+
+		V.b.1. Este software es una herramienta de apoyo interno para gestión de inventario, control de flujo de caja y registro de operaciones.
+		EL SOFTWARE NO ES UN SISTEMA PUNTO DE VENTA (POS) FISCAL HOMOLOGADO. No cumple con los requisitos técnicos, tributarios ni legales de sistemas fiscales
+		certificados exigidos por las autoridades de ningún país o jurisdicción (por ejemplo: SENIAT, SAT, Hacienda, AFIP, SRI, DIAN, etc.). El Desarrollador 
+		no garantiza que el uso de este software cumpla con las obligaciones fiscales del usuario. El usuario asume la totalidad de la responsabilidad legal y 
+		fiscal por el uso de esta herramienta y se obliga a utilizar los sistemas de facturación o impresoras fiscales homologadas que la ley exija para el 
+		cumplimiento de sus obligaciones tributarias. Este software no pretende ni debe utilizarse como sustituto de los sistemas legales de facturación.
+
+	V. MANTENIMIENTO Y SOPORTE
+
+		V.1. El desarrollador no se obliga a proporcionar servicios de actualizaciones continuas.
+
+	1. HOJA DE RUTA (ROADMAP)
+
+		Versión Actual: v1.0.2 (Lanzamiento Estable)
+
+			Próximas Actualizaciones:
+
+				[NO] Soporte para múltiples usuarios con niveles de acceso.
+				[NO] Soporte multicaja con base de datos compartida (SQL) nativo del sistema.
+				[NO] Modo claro y personalización de la interfaz.
+				[POSIBLE IMPLEMENTACIÓN] Permitir facturación físcal conectandese a la API oficial otorgada por SENIAT. 
+
+	3. MANTENTE CONECTADO Y SOPORTE
+
+		Si tienes dudas, quieres reportar un error o simplemente quieres ver en qué estoy trabajando, sígueme en mis redes, ofrezco software profesional
+		gratuito.
+
+			TikTok: [@WinsDEV]
+			YouTube: [@WinsDEV]
+			WhatsApp: [+58 0414 236 24 14]
+			Email Soporte: [winstoncontreras4@protonmail.com]
+
+	4. REGISTRO DE CONTROL DEL DOCUMENTO
+
+		Documento emitido y actualizado el: 26 de octubre de 2026. 
+		Versión del EULA: 1.0.0
+		Ubicación de Jurisdicción: Caracas, Venezuela. 
+
+
+
+
+
+
+
+
+
+
